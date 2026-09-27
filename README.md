@@ -2,6 +2,8 @@
 
 # Hi, I'm Shivkumar Tiwari
 
+<img src="./profile-dashboard.svg" alt="Terminal-style dashboard showing my Azure platform engineering focus and skills" width="100%" />
+
 ### Senior DevOps &amp; Platform Engineer | Azure
 
 **Mumbai, India** · I build secure cloud platforms and reliable delivery systems.
