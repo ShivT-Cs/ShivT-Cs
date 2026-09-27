@@ -18,6 +18,15 @@
 
 I’m a cloud-focused DevOps and platform engineer with **5+ years of experience** designing secure, scalable Azure environments. My work spans Kubernetes platforms, infrastructure automation, CI/CD, governance, and production operations.
 
+```console
+shivt@azure:~$ whoami
+Shivkumar Tiwari - Senior DevOps / Platform Engineer
+shivt@azure:~$ stack --core
+Azure | AKS | Terraform | Bicep | Helm
+shivt@azure:~$ focus --on
+Secure platforms | CI/CD | governance | reliability
+```
+
 ## What I Build
 
 - **Azure platforms:** secure foundations, governance, identity, and multi-environment delivery
