@@ -4,7 +4,7 @@
 
 <img src="./profile-dashboard.svg" alt="Terminal-style dashboard showing my Azure platform engineering focus and skills" width="100%" />
 
-### Senior DevOps &amp; Platform Engineer | Azure
+### Cloud Architect | Azure Architecture &amp; Platform Engineering
 
 **Mumbai, India** · I build secure cloud platforms and reliable delivery systems.
 
@@ -20,40 +20,73 @@ I’m a cloud-focused DevOps and platform engineer with **5+ years of experience
 
 ```console
 shivt@azure:~$ whoami
-Shivkumar Tiwari - Senior DevOps / Platform Engineer
+Shivkumar Tiwari - Cloud Architect
 shivt@azure:~$ stack --core
 Azure | AKS | Terraform | Bicep | Helm
 shivt@azure:~$ focus --on
 Secure platforms | CI/CD | governance | reliability
 ```
 
-## What I Build
+## Areas of Expertise
 
-- **Azure platforms:** secure foundations, governance, identity, and multi-environment delivery
-- **Kubernetes infrastructure:** AKS deployments, container platforms, and Helm-based releases
-- **Infrastructure as code:** reusable cloud provisioning with Terraform and Bicep
-- **Delivery automation:** dependable CI/CD workflows with Azure DevOps and GitHub Actions
-- **Production operations:** monitoring, reliability, security controls, and cost-aware operations
+- **Azure architecture:** landing zones, identity and governance, network design, and resilience patterns
+- **DevOps and IaC:** Azure DevOps, GitHub Actions, Terraform/OpenTofu, and release automation
+- **Container platforms:** AKS/Kubernetes, Docker, Helm, and platform engineering workflows
+- **Security and reliability:** DevSecOps, Azure security baselines, SRE/observability, and compliance-aware delivery
+- **Engineering foundations:** Python automation, cloud migration, data platform integration, and AI infrastructure
+
+## Selected Architecture Studies
+
+These are sanitized, illustrative portfolio drafts focused on architecture and implementation patterns, not claims of client deployments.
+
+- [Azure Landing Zone and Terraform/OpenTofu Automation](https://shivcshub.com/projects/azure-landing-zone-iac-modules): reusable subscription onboarding, policy controls, and infrastructure modules.
+- [Multi-Environment CI/CD for Angular, .NET, and SQL](https://shivcshub.com/projects/multi-environment-cicd-angular-dotnet-sql): staged releases with quality gates, approvals, and rollback paths.
+- [Azure Blob Malware Scanning](https://shivcshub.com/projects/blob-malware-scanning-defender-storage): scan and quarantine uploaded files before downstream processing.
+- [AKS Platform Engineering](https://shivcshub.com/projects/aks-platform-engineering): standardized Kubernetes foundations, workload onboarding, and operational guardrails.
+- [Azure AI / RAG Infrastructure](https://shivcshub.com/projects/azure-ai-rag-infrastructure): secure, governable foundations for ingestion, indexing, and retrieval.
+- [Azure AIOps Incident Intelligence](https://shivcshub.com/projects/azure-aiops-incident-intelligence): telemetry correlation and explainable incident signals with operator oversight.
+
+## Interactive Demos
+
+These demos use deterministic local simulations; they do not connect to live Azure resources.
+
+- [Azure DevOps Release Pipeline Simulator](https://shivcshub.com/demos/azure-devops-pipeline): explore release gates, environment approvals, failure paths, and rollback behavior.
+- [AIOps Incident Intelligence Lab](https://shivcshub.com/demos/aiops-incident-lab): inspect synthetic telemetry, probable-cause evidence, and human approval steps.
+
+## How I Approach Platform Work
+
+- **Secure the foundations:** build identity, RBAC, policy, and governance into the platform.
+- **Automate repeatable work:** use infrastructure as code and CI/CD to make delivery consistent across environments.
+- **Design for operations:** make systems observable, plan for recovery, and keep reliability in view from deployment through production.
 
 ## Experience
 
-### Consultant DevOps / Platform Engineer (Azure) · BDO India
+### Cloud Architect
 
-- Designed Azure platform solutions across networking, governance, security, and multiple environments
-- Established delivery practices with Azure DevOps, Terraform, and Helm
-- Supported platform modernization and secure application delivery
+**May 2026 – Present**
 
-### Cloud / DevOps Engineer (Azure) · CLOUDNXT EMPOWERING SOLUTIONS
+- Azure architecture, solution design, and Azure infrastructure
+- Terraform/OpenTofu, Azure DevOps and CI/CD, Kubernetes (AKS), and platform engineering
+- DevSecOps, cloud security, SRE, cloud migration and modernization, BCDR, and cost optimization
+- TOGAF 10 and system design
 
-- Built secure Azure architectures and infrastructure automation with Terraform
-- Supported production operations and disaster recovery planning
-- Helped modernize legacy IIS workloads to Azure-native services
+### Consultant for Azure (Admin, DevOps and Architect)
 
-### Cloud Engineer · IFI TECHSOLUTIONS
+**February 2025 – April 2026**
 
-- Managed Azure subscriptions, governance, RBAC, and cost controls
-- Delivered infrastructure across compute, networking, storage, VPN, and backup
-- Supported CI/CD and cloud delivery for enterprise workloads
+- Aligned cloud architecture, delivery automation, and governance for enterprise workloads.
+
+### Senior Cloud Engineer
+
+**Approx. previous 2.7 years**
+
+- Modernized CI/CD, strengthened platform operations, and scaled container-first delivery practices.
+
+### Azure Cloud Engineer
+
+**Approx. first 1.5 years**
+
+- Supported migration readiness, foundational automation, and secure workload onboarding.
 
 ## Technical Toolkit
 
