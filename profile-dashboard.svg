@@ -85,14 +85,16 @@
   <text x="790" y="312" fill="#d7e9ee" font-family="Consolas, 'Courier New', monospace" font-size="14">5+ years in cloud / platform engineering</text>
 
   <path d="M628 335h514" stroke="#31576c" />
-  <text x="628" y="370" fill="#77d5e6" font-family="Consolas, 'Courier New', monospace" font-size="15">shivt@engineer:~$ cat focus.txt</text>
-  <circle cx="638" cy="400" r="3" fill="#f1bc62" />
-  <text x="653" y="405" fill="#d7e9ee" font-family="Consolas, 'Courier New', monospace" font-size="13">Azure platform engineering &amp; AKS</text>
-  <circle cx="638" cy="430" r="3" fill="#f1bc62" />
-  <text x="653" y="435" fill="#d7e9ee" font-family="Consolas, 'Courier New', monospace" font-size="13">Terraform, Bicep, Helm &amp; automation</text>
-  <circle cx="638" cy="460" r="3" fill="#f1bc62" />
-  <text x="653" y="465" fill="#d7e9ee" font-family="Consolas, 'Courier New', monospace" font-size="13">Security, governance &amp; reliability</text>
+  <text x="628" y="370" fill="#77d5e6" font-family="Consolas, 'Courier New', monospace" font-size="15">shivt@engineer:~$ cat skills.txt</text>
+  <text x="653" y="402" fill="#91e5ef" font-family="Consolas, 'Courier New', monospace" font-size="12">CLOUD / CI-CD</text>
+  <text x="802" y="402" fill="#d7e9ee" font-family="Consolas, 'Courier New', monospace" font-size="12">Azure | Azure DevOps | GitHub Actions</text>
+  <text x="653" y="430" fill="#91e5ef" font-family="Consolas, 'Courier New', monospace" font-size="12">CONTAINERS</text>
+  <text x="802" y="430" fill="#d7e9ee" font-family="Consolas, 'Courier New', monospace" font-size="12">AKS | Kubernetes | Docker | Helm</text>
+  <text x="653" y="458" fill="#91e5ef" font-family="Consolas, 'Courier New', monospace" font-size="12">INFRASTRUCTURE</text>
+  <text x="802" y="458" fill="#d7e9ee" font-family="Consolas, 'Courier New', monospace" font-size="12">Terraform | Bicep</text>
+  <text x="653" y="486" fill="#91e5ef" font-family="Consolas, 'Courier New', monospace" font-size="12">OPERATIONS</text>
+  <text x="802" y="486" fill="#d7e9ee" font-family="Consolas, 'Courier New', monospace" font-size="12">Policy | RBAC | Monitor | Prometheus | Grafana</text>
 
-  <text x="628" y="496" fill="#75d8ac" font-family="Consolas, 'Courier New', monospace" font-size="13">shivt@engineer:~$</text>
-  <rect x="791" y="483" width="9" height="17" fill="#75d8ac" />
+  <text x="628" y="510" fill="#75d8ac" font-family="Consolas, 'Courier New', monospace" font-size="12">shivt@engineer:~$</text>
+  <rect x="780" y="496" width="8" height="16" fill="#75d8ac" />
 </svg>
